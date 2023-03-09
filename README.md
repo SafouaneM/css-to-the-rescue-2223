@@ -13,17 +13,15 @@ I want to start with some basic stuff, as I'm not the strongest in CSS yet.
 ## Research
 
 - [x] Research how I can change my png's to svg cutouts and fill them with for example a blackbackground
-- [] Research how I can make those svg cutouts animte in a "breathing" matter
+- [x] Research how I can make those svg cutouts animte in a "breathing" matter
 - [] Research how I can make all these cutouts clickable, and make them do something for example opening a modal or changing a value (for testing purposes let them change the background color of the page fe)
 - [] Research how I can spawn and animate patterns and shapes when something is clicked
 
 ## SVG'S
-- [] I have ~5 png's that are now svg cutouts filled with a background color of my liking
-- [] I have animated those svg's in a "breathing" matter
+- [x] I have ~5 png's that are now svg cutouts filled with a background color of my liking
 
 ## Events
-- [] I can click on a cutout and it does something with the page
-- [] I can click on a cutout and it opens a modal or changes a value
+- [x] I can click on a checkbox and it does something with the page it changes the color of the firework
 
 ## Shapes and patterns
 - [] I can make a simple turtle pattern with CSS
@@ -33,6 +31,30 @@ I want to start with some basic stuff, as I'm not the strongest in CSS yet.
 ## End result (hopefully)
 - [] When I click on the svg in the middle I first get a modal prompt that her default firework has been set and that I change the colors and patterns by clicking on the other images.
 - [] I have a working firework show, when I click on the svg in the middle I can shoot default fireworks from her bow. If I click on the svg's on the left and the right I can change the pattern/color of the firework that gets shot from the middle svg. 
+
+## End result (neutral)
+I got a mixed sort of playground of all kind of things I could in my power with animations, I got a looping rocket some exploding text if you click on it and we got a nuke bottom that was orignally the firerocket button but maybe its also fun to just nuke everything.
+Learned how to make an okay gradient etc.
+
+It's far away from the concept I had in mind but that's okay in my opinion.
+
+# Process in het nederlands:
+
+1. Begon met een blokje in de lucht afvuren op advies van 1 van de docenten gewoon simpel beginnen niet? Dit was dan ook de eerste keyframe die ik had gemaakt genaamd ascend.
+2. Ik heb de svgtjes al gift gekregen van een student, dus daar ga ik niet verder over maar het was eingelijk de bedoeling dat ik mijn eigen svg cutouts daar zou plaatsen dat is helaas niet gelukt.
+3. Ik heb hier wat foto's over hoe ik oorspronkelijk alles in elkaar wou zetten, ik had een best grandioos idee.
+
+fotos content van notitieboek
+
+[Screenshot 2023-03-09 at 17.29.10.png](..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fyg%2F49psmmj57mz9slvc180rpzr00000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_Qm7e1H%2FScreenshot%202023-03-09%20at%2017.29.10.png)
+![Screenshot 2023-03-09 at 17.29.33.png](..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fyg%2F49psmmj57mz9slvc180rpzr00000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_RFUiso%2FScreenshot%202023-03-09%20at%2017.29.33.png)
+
+
+Eindstatus!
+![Screenshot 2023-03-09 at 17.28.13.png](..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fyg%2F49psmmj57mz9slvc180rpzr00000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_DJYkq4%2FScreenshot%202023-03-09%20at%2017.28.13.png)
+
+4. TLDR er had nog meer in kunnen zitten, maar ik vond het vrij lastig om met nieuwe dingen te komen met mijn hudige kennis, ik zeg niet dat dit mijn limiet is maar dit is wat ik mijn huidige kennis online kan zetten :)
+
 
 
 
