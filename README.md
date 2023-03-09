@@ -44,16 +44,19 @@ It's far away from the concept I had in mind but that's okay in my opinion.
 2. Ik heb de svgtjes al gift gekregen van een student, dus daar ga ik niet verder over maar het was eingelijk de bedoeling dat ik mijn eigen svg cutouts daar zou plaatsen dat is helaas niet gelukt.
 3. Ik heb hier wat foto's over hoe ik oorspronkelijk alles in elkaar wou zetten, ik had een best grandioos idee.
 
-fotos content van notitieboek
-
-[Screenshot 2023-03-09 at 17.29.10.png](..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fyg%2F49psmmj57mz9slvc180rpzr00000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_Qm7e1H%2FScreenshot%202023-03-09%20at%2017.29.10.png)
-![Screenshot 2023-03-09 at 17.29.33.png](..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fyg%2F49psmmj57mz9slvc180rpzr00000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_RFUiso%2FScreenshot%202023-03-09%20at%2017.29.33.png)
+fotos idee van notitieboek
+![IMG_9479](https://user-images.githubusercontent.com/31611670/224090386-2992d54e-3c80-4879-80c4-e867f28c1af8.JPG)
+![IMG_9480](https://user-images.githubusercontent.com/31611670/224090358-203045a6-ddf5-4b69-a837-9474096fddb7.JPG)
+<img width="345" alt="Screenshot 2023-03-09 at 17 33 41" src="https://user-images.githubusercontent.com/31611670/224089933-8e7dc7cb-f464-4ed7-a194-22f74e17905c.png">
 
 
 Eindstatus!
-![Screenshot 2023-03-09 at 17.28.13.png](..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fyg%2F49psmmj57mz9slvc180rpzr00000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_DJYkq4%2FScreenshot%202023-03-09%20at%2017.28.13.png)
+
+![Screenshot 2023-03-09 at 17 33 05](https://user-images.githubusercontent.com/31611670/224089777-674447d1-12e9-4682-9359-c23bfbac65ef.png)
+
 
 4. TLDR er had nog meer in kunnen zitten, maar ik vond het vrij lastig om met nieuwe dingen te komen met mijn hudige kennis, ik zeg niet dat dit mijn limiet is maar dit is wat ik mijn huidige kennis online kan zetten :)
+
 
 
 
